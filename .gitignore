@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 catalog/.DS_Store
 catalog/data/.DS_Store
+catalog/static/.DS_Store
