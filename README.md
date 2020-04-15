@@ -3,10 +3,10 @@
 A mineral catalog web application. The main (index) page lists minerals' name. Each mineral name links to a detail page that displays image, category, formula and other related information.
 
 ## Screenshot
-index page
+### index page
 <<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/index-page.png" width="600">
 
-detail page
+### detail page
 <<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/detail-page.png" width="600">
 
 ## Requirements
