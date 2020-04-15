@@ -3,9 +3,11 @@
 A mineral catalog web application. The main (index) page lists minerals' name. Each mineral name links to a detail page that displays image, category, formula and other related information.
 
 ## Screenshot
-![index-page](https://raw.githubusercontent.com/yushinna/python-project-06/images/index-page.png)
+index page
+<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/index-page.png" width="400">
 
-![detail-page](https://raw.githubusercontent.com/yushinna/python-project-06/images/detail-page.png)
+detail page
+<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/detail-page.png" width="400">
 
 ## Requirements
 Install the project requirements from the provided Pipfile by running the following command in your terminal:
