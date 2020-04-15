@@ -4,10 +4,10 @@ A mineral catalog web application. The main (index) page lists minerals' name. E
 
 ## Screenshot
 index page
-<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/index-page.png" width="400">
+<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/index-page.png" width="600">
 
 detail page
-<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/detail-page.png" width="400">
+<<img src="https://raw.githubusercontent.com/yushinna/python-project-06/images/detail-page.png" width="600">
 
 ## Requirements
 Install the project requirements from the provided Pipfile by running the following command in your terminal:
@@ -21,6 +21,9 @@ Run server by Django, enter given url (`http://127.0.0.1:8000` by default) on br
 ```
 # enter virtual environment
 pipenv shell
+
+# create database and load data from json file
+python manage.py migrate
 
 #run Django app
 python manage.py runserver
