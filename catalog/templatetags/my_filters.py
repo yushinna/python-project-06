@@ -17,4 +17,4 @@ def get_fields(obj):
         ]:
             value = getattr(obj, field_name, None)
             if value != None:
-                yield (field_name, value)
+                yield (field_name.upper().replace('_', ' '), value)
